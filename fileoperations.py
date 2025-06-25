@@ -1,0 +1,5 @@
+f=open('abcs','a')
+f.write('  I have appended something ..')
+f.write('Lets see if this works')
+print('Added')
+f.close()
